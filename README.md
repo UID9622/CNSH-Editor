@@ -1,13 +1,15 @@
-# CNSH 军人编辑器 · 普惠版 v0.1
+# CNSH · 龍魂生态系统
 
-> **中国人自己的字元创作工具，不求人，不联网，双击即用。**
+> **中国人自己的数字生态，不求人，不联网，持续进化。**
+>
+> 字元创作 · AI画匠 · 中文编程 · 文化主权
 
 ---
 
-> 🗂️ **这是龍魂系统的子项目**
+> 🗂️ **CNSH 生态主仓**
 > - 完整资产清单：[IP-ASSET-LEDGER](https://github.com/UID9622/longhun-system/blob/main/IP-ASSET-LEDGER.md)
 > - 核心协议：[北辰协议](https://github.com/UID9622/longhun-system/blob/main/beichen-protocol)
-> - 主仓库：[龍魂系统 longhun-system](https://github.com/UID9622/longhun-system)
+> - 理念溯源：[龍魂系统 longhun-system](https://github.com/UID9622/longhun-system)
 
 **DNA追溯码**: #ZHUGEXIN⚡️20260201-CNSH-EDITOR-v0.1.0
 **确认码**: #CONFIRM🌌9622-ONLY-ONCE🧬CNSH-EDITOR-772Z
@@ -258,7 +260,7 @@ GPG公钥指纹：A2D0092CEE2E5BA87035600924C3704A8CC26D5F
 ## 📞 联系方式
 
 - **Gitee 仓库**：https://gitee.com/uid9622/cnsh-editor
-- **GitHub 仓库**：https://github.com/UID9622/CNSH-Editor
+- **GitHub 仓库**：https://github.com/UID9622/CNSH
 - **CSDN 博客**：uid9622.blog.csdn.net
 - **数字身份**：T38C89R75U
 - **DNA追溯码**：#ZHUGEXIN⚡️20260201-CNSH-EDITOR-v0.1.0
