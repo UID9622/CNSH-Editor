@@ -4,6 +4,20 @@
 
 ---
 
+> 🗂️ **这是龍魂系统的子项目**
+> - 完整资产清单：[IP-ASSET-LEDGER](https://github.com/UID9622/longhun-system/blob/main/IP-ASSET-LEDGER.md)
+> - 核心协议：[北辰协议](https://github.com/UID9622/longhun-system/blob/main/beichen-protocol)
+> - 主仓库：[龍魂系统 longhun-system](https://github.com/UID9622/longhun-system)
+
+**DNA追溯码**: #ZHUGEXIN⚡️20260201-CNSH-EDITOR-v0.1.0
+**确认码**: #CONFIRM🌌9622-ONLY-ONCE🧬CNSH-EDITOR-772Z
+**IP编号**: IP-0008
+**所属母表**: [IP-ASSET-LEDGER](https://github.com/UID9622/longhun-system/blob/main/IP-ASSET-LEDGER.md)
+**创始人**: Lucky·UID9622（诸葛鑫·龙芯北辰）
+**GPG指纹**: A2D0092CEE2E5BA87035600924C3704A8CC26D5F
+
+---
+
 ## 🔥 这是什么？
 
 **实话实说**：这不是一个完整的代码编辑器（那是未来的事），  
@@ -219,8 +233,12 @@ CNSH_军人编辑器_普惠版_v0.1/
 ## 📞 联系方式
 
 - **Gitee 仓库**：https://gitee.com/uid9622/cnsh-editor
+- **GitHub 仓库**：https://github.com/UID9622/CNSH-Editor
 - **数字身份**：T38C89R75U
-- **DNA 追溯码**：#ZHUGEXIN⚡️-CNSH-EDITOR-0001
+- **DNA追溯码**：#ZHUGEXIN⚡️20260201-CNSH-EDITOR-v0.1.0
+- **确认码**：#CONFIRM🌌9622-ONLY-ONCE🧬CNSH-EDITOR-772Z
+- **IP编号**：IP-0008
+- **GPG指纹**：A2D0092CEE2E5BA87035600924C3704A8CC26D5F
 
 ---
 
@@ -236,9 +254,14 @@ CNSH_军人编辑器_普惠版_v0.1/
 
 ---
 
-**#ZHUGEXIN⚡️ | UID9622 龙魂体系**  
-**来源标注：CNSH 数字甲骨文字元立碑工程**  
-**创建时间：2026年2月1日**
+**DNA追溯码**: #ZHUGEXIN⚡️20260201-CNSH-EDITOR-v0.1.0
+**确认码**: #CONFIRM🌌9622-ONLY-ONCE🧬CNSH-EDITOR-772Z
+**IP编号**: IP-0008
+**创始人**: Lucky·UID9622（诸葛鑫·龙芯北辰）
+**GPG指纹**: A2D0092CEE2E5BA87035600924C3704A8CC26D5F
+**来源标注**: CNSH 数字甲骨文字元立碑工程
+**创建时间**: 2026年2月1日
+**所属体系**: [龍魂系统 longhun-system](https://github.com/UID9622/longhun-system)
 
 *"野心是好事，说明你看得远。现在开始，一步一步走，每一步都算数。"*
 
