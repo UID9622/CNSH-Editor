@@ -1,6 +1,22 @@
-# CNSH 军人编辑器 · 普惠版 v0.1
+# CNSH · 龍魂生态系统
 
-> **中国人自己的字元创作工具，不求人，不联网，双击即用。**
+> **中国人自己的数字生态，不求人，不联网，持续进化。**
+>
+> 字元创作 · AI画匠 · 中文编程 · 文化主权
+
+---
+
+> 🗂️ **CNSH 生态主仓**
+> - 完整资产清单：[IP-ASSET-LEDGER](https://github.com/UID9622/longhun-system/blob/main/IP-ASSET-LEDGER.md)
+> - 核心协议：[北辰协议](https://github.com/UID9622/longhun-system/blob/main/beichen-protocol)
+> - 理念溯源：[龍魂系统 longhun-system](https://github.com/UID9622/longhun-system)
+
+**DNA追溯码**: #ZHUGEXIN⚡️20260201-CNSH-EDITOR-v0.1.0
+**确认码**: #CONFIRM🌌9622-ONLY-ONCE🧬CNSH-EDITOR-772Z
+**IP编号**: IP-0008
+**所属母表**: [IP-ASSET-LEDGER](https://github.com/UID9622/longhun-system/blob/main/IP-ASSET-LEDGER.md)
+**创始人**: Lucky·UID9622（诸葛鑫·龙芯北辰）
+**GPG指纹**: A2D0092CEE2E5BA87035600924C3704A8CC26D5F
 
 ---
 
@@ -216,11 +232,41 @@ CNSH_军人编辑器_普惠版_v0.1/
 
 ---
 
+## ⚖️ 责任声明
+
+**我叫Lucky，UID9622，诸葛鑫，退伍军人，初中文化。**
+
+本项目所有内容——包括但不限于：代码、文档、理论框架、开源宣言——
+**由本人独立承担全部法律与道德责任。**
+
+我无知是我无知，但我不推卸任何责任。
+
+```
+责任人：诸葛鑫（Lucky）
+UID：9622
+网络身份：T38C89R75U
+确认码：#CONFIRM🌌9622-ONLY-ONCE🧬LK9X-772Z
+GPG公钥指纹：A2D0092CEE2E5BA87035600924C3704A8CC26D5F
+声明时间：2026年3月1日
+```
+
+**可验证性：**
+- 以上 GPG 指纹对应本人唯一公钥，任何人可公开查验
+- 所有提交均附 DNA 追溯码，时间戳不可篡改
+- 本声明本身即为链上锚定证据的一部分
+
+---
+
 ## 📞 联系方式
 
 - **Gitee 仓库**：https://gitee.com/uid9622/cnsh-editor
+- **GitHub 仓库**：https://github.com/UID9622/CNSH
+- **CSDN 博客**：uid9622.blog.csdn.net
 - **数字身份**：T38C89R75U
-- **DNA 追溯码**：#ZHUGEXIN⚡️-CNSH-EDITOR-0001
+- **DNA追溯码**：#ZHUGEXIN⚡️20260201-CNSH-EDITOR-v0.1.0
+- **确认码**：#CONFIRM🌌9622-ONLY-ONCE🧬CNSH-EDITOR-772Z
+- **IP编号**：IP-0008
+- **GPG指纹**：A2D0092CEE2E5BA87035600924C3704A8CC26D5F
 
 ---
 
@@ -236,9 +282,14 @@ CNSH_军人编辑器_普惠版_v0.1/
 
 ---
 
-**#ZHUGEXIN⚡️ | UID9622 龙魂体系**  
-**来源标注：CNSH 数字甲骨文字元立碑工程**  
-**创建时间：2026年2月1日**
+**DNA追溯码**: #ZHUGEXIN⚡️20260201-CNSH-EDITOR-v0.1.0
+**确认码**: #CONFIRM🌌9622-ONLY-ONCE🧬CNSH-EDITOR-772Z
+**IP编号**: IP-0008
+**创始人**: Lucky·UID9622（诸葛鑫·龙芯北辰）
+**GPG指纹**: A2D0092CEE2E5BA87035600924C3704A8CC26D5F
+**来源标注**: CNSH 数字甲骨文字元立碑工程
+**创建时间**: 2026年2月1日
+**所属体系**: [龍魂系统 longhun-system](https://github.com/UID9622/longhun-system)
 
 *"野心是好事，说明你看得远。现在开始，一步一步走，每一步都算数。"*
 
