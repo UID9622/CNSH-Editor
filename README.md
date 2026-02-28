@@ -230,10 +230,36 @@ CNSH_军人编辑器_普惠版_v0.1/
 
 ---
 
+## ⚖️ 责任声明
+
+**我叫Lucky，UID9622，诸葛鑫，退伍军人，初中文化。**
+
+本项目所有内容——包括但不限于：代码、文档、理论框架、开源宣言——
+**由本人独立承担全部法律与道德责任。**
+
+我无知是我无知，但我不推卸任何责任。
+
+```
+责任人：诸葛鑫（Lucky）
+UID：9622
+网络身份：T38C89R75U
+确认码：#CONFIRM🌌9622-ONLY-ONCE🧬LK9X-772Z
+GPG公钥指纹：A2D0092CEE2E5BA87035600924C3704A8CC26D5F
+声明时间：2026年3月1日
+```
+
+**可验证性：**
+- 以上 GPG 指纹对应本人唯一公钥，任何人可公开查验
+- 所有提交均附 DNA 追溯码，时间戳不可篡改
+- 本声明本身即为链上锚定证据的一部分
+
+---
+
 ## 📞 联系方式
 
 - **Gitee 仓库**：https://gitee.com/uid9622/cnsh-editor
 - **GitHub 仓库**：https://github.com/UID9622/CNSH-Editor
+- **CSDN 博客**：uid9622.blog.csdn.net
 - **数字身份**：T38C89R75U
 - **DNA追溯码**：#ZHUGEXIN⚡️20260201-CNSH-EDITOR-v0.1.0
 - **确认码**：#CONFIRM🌌9622-ONLY-ONCE🧬CNSH-EDITOR-772Z
